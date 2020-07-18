@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **malihamza/malihamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 Hi! I'm [Ali Hamza](https://github.com/malihamza) 👋🏼
 
 
-I'm a  Machine Learning Engineer based in Lahore ☀️, working at Upwork. I am machine learning enthuist always looking for new ideas and improvements in this field. Interested in design, tech and OpenSource ❤️
+I'm a  **Machine Learning Engineer** based in Lahore ☀️, working at Upwork. I am machine learning enthuist always looking for new ideas and improvements in this field. Interested in design, tech and OpenSource ❤️
