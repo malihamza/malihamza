@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![HitCount](http://hits.dwyl.com/malihamza/malihamza.svg)](http://hits.dwyl.com/malihamza/malihamza)
+
 Hi! I'm [Ali Hamza](https://github.com/malihamza) 👋🏼
 
 
