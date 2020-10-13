@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi! I'm [Ali Hamza](https://github.com/malihamza) 👋🏼
 
 
-I'm a  **Machine Learning Engineer** based in Lahore ☀️, working at Upwork. I am machine learning enthuist always looking for new ideas and improvements in this field. Interested in design, tech and OpenSource ❤️
+I'm a  **Machine Learning Engineer** based in Lahore ☀️. I am machine learning enthuist always looking for new ideas and improvements in this field. Interested in design, tech and OpenSource ❤️
 
 - 🔭 I’m currently working on Machine Leanring Projects.
 
