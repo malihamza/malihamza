@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 Hi! I'm [Ali Hamza](https://github.com/malihamza) 👋🏼
 
 
-I'm a  **Machine Learning Engineer** based in Lahore ☀️. I am machine learning enthuist always looking for new ideas and improvements in this field. Interested in design, tech and OpenSource ❤️
-
-- 🔭 I’m currently working on Machine Leanring Projects.
-
-- 🌱 I’m currently learning Generative Adversarial Networks
-
-- 👯 I’m looking to collaborate on open source projects that include machine learning
+I'm a  **Full stack Developer** based in Lahore ☀️.Interested in design, tech and OpenSource ❤️.
