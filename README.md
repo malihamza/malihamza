@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 Hi! I'm [Ali Hamza](https://github.com/malihamza) 👋🏼
 
 
-I'm a  **Machine Learning Engineer** based in Frankfurt ☀️. Interested in design, tech, and OpenSource ❤️.
+I'm a  **Research Engineer** ☀️. Interested in design, tech, and OpenSource ❤️.
